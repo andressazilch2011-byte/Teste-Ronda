@@ -1,0 +1,8 @@
+{
+  "name": "Vigilante Pro - Ronda Digital",
+  "description": "Aplicativo moderno para controle de rondas de vigilância com leitura de QR Code, geolocalização obrigatória e registro em tempo real.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
